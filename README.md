@@ -31,6 +31,7 @@ The repository currently includes implementations of the following algorithms an
 	•	Integer Operations in Arrays
 
 Repository Structure
+```
 DesignAndAnalysisOfAlgorithms/
 │
 ├── BFSandDFS.c
@@ -46,7 +47,7 @@ DesignAndAnalysisOfAlgorithms/
 ├── MergeQuick.c
 ├── MinMax.c
 ├── test.c
-
+```
 Language Used
 C Programming Language
 
