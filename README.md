@@ -1,11 +1,9 @@
 Design and Analysis of Algorithms (C)
-
 This repository contains my implementations of various Design and Analysis of Algorithms (DAA) concepts using the C programming language. The programs in this repository were written while practicing and studying fundamental algorithm design techniques such as divide and conquer, dynamic programming, greedy methods, backtracking, and branch and bound.
 
 The objective of this repository is to understand how classical algorithms work by implementing them and analyzing their behavior.
 
 About the Repository
-
 This repository includes C programs that demonstrate different algorithmic techniques and problem-solving approaches commonly taught in a Design and Analysis of Algorithms course.
 
 The programs focus on:
@@ -15,7 +13,6 @@ The programs focus on:
 	•	Exploring different approaches to solve computational problems
 
 Algorithms and Problems Implemented
-
 The repository currently includes implementations of the following algorithms and problems:
 	•	Breadth First Search (BFS) and Depth First Search (DFS)
 	•	Bubble Sort
